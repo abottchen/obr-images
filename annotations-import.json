@@ -25,18 +25,18 @@
     }
   },
   "summary": {
-    "totalItems": 82,
+    "totalItems": 109,
     "byType": {
-      "IMAGE": 82
+      "IMAGE": 109
     },
     "byLayer": {
-      "PROP": 82
+      "PROP": 109
     }
   },
   "items": [
     {
       "type": "IMAGE",
-      "id": "ff8f0c3b-9565-4ecb-aab4-65f845b7782a",
+      "id": "948111a8-a1b4-44ba-a434-7eaa69a17452",
       "name": "Hex E0 S0",
       "position": {
         "x": 1911.11,
@@ -102,7 +102,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "54bcb289-8a83-4ee3-b3dc-77ce7483e238",
+      "id": "5cff00fe-ac1a-431b-81fd-d6b15341723d",
       "name": "Hex W1 S0",
       "position": {
         "x": 1784.4199999999998,
@@ -168,7 +168,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "9b2ed31a-0cdb-44f1-aadc-fa19ca582bc1",
+      "id": "275d8479-050a-4cc6-9746-a3c1d0cab729",
       "name": "Hex W1 S1",
       "position": {
         "x": 1784.4199999999998,
@@ -234,7 +234,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "32658efe-55f1-4d14-8f5c-fec128967c06",
+      "id": "0d9b824d-c9c3-46b2-aa62-a93aec2a8cc9",
       "name": "Hex E0 N1",
       "position": {
         "x": 1911.11,
@@ -300,7 +300,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "78ebd630-dd67-48e9-9eec-fa2009ad82ea",
+      "id": "3d4d50d2-a963-4cc5-a857-75cfd938b029",
       "name": "Hex E0 S1",
       "position": {
         "x": 1911.11,
@@ -366,7 +366,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "bdee864d-f884-4a05-aaf8-286bf7b54494",
+      "id": "817bde97-e090-4f9b-98ea-7513cb4fa226",
       "name": "Hex E1 S0",
       "position": {
         "x": 2037.7999999999997,
@@ -432,7 +432,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "fbd59a48-210e-4354-847d-8e85f5e5918e",
+      "id": "aeb6cb97-3d01-4d98-8d45-9b3cd48d6c12",
       "name": "Hex E1 S1",
       "position": {
         "x": 2037.7999999999997,
@@ -498,7 +498,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "144b4885-39d4-4d74-ae20-392f2fa9405b",
+      "id": "233ed52e-1db9-4afc-9881-d56d4460a0cf",
       "name": "Hex W2 N1",
       "position": {
         "x": 1657.73,
@@ -564,7 +564,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "a26735df-3573-4cef-b4ba-4bd934c9dcc3",
+      "id": "e9fb80e7-fcf9-410e-8862-d4d351cedac1",
       "name": "Hex W2 S0",
       "position": {
         "x": 1657.73,
@@ -630,7 +630,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "f93ab3a9-36aa-4f91-a7eb-27d8f222bfa1",
+      "id": "47ee08a7-a999-4e9a-8e5e-d05db3bb8045",
       "name": "Hex W2 S1",
       "position": {
         "x": 1657.73,
@@ -696,7 +696,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "837cb862-dbc8-42d5-b435-548646543d06",
+      "id": "b750d601-4bcc-44f0-9616-f6288442a435",
       "name": "Hex W1 N1",
       "position": {
         "x": 1784.4199999999998,
@@ -762,7 +762,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "f4bb8ea9-15c0-46f3-a0d9-99229368d077",
+      "id": "bb0b289d-3db4-4cd1-af1f-ca130f3ef526",
       "name": "Hex W1 S2",
       "position": {
         "x": 1784.4199999999998,
@@ -828,7 +828,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "0d92c23a-1c13-4251-9e57-4f29230385b1",
+      "id": "48ebd26a-fc5f-407e-9442-af4c456cf529",
       "name": "Hex E0 N2",
       "position": {
         "x": 1911.11,
@@ -894,7 +894,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "0d24f8bb-2518-43c3-877c-af8ab48a83c8",
+      "id": "858fc9c0-f680-4736-97e8-74ae0e13de82",
       "name": "Hex E0 S2",
       "position": {
         "x": 1911.11,
@@ -960,7 +960,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "b75ffafb-710c-4f8c-bf70-2643487ca4e3",
+      "id": "0907f4e2-5ffb-459d-8ccb-2d2c69e261ed",
       "name": "Hex E1 N1",
       "position": {
         "x": 2037.7999999999997,
@@ -1026,7 +1026,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "92245805-35ab-4f70-a187-7204ddbe4548",
+      "id": "829f7ee0-4fca-4eaf-8d14-0ce92ecb9afe",
       "name": "Hex E1 S2",
       "position": {
         "x": 2037.7999999999997,
@@ -1092,7 +1092,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "48aadd5b-0e6d-49d2-aae3-b84b008a152b",
+      "id": "e4fd6110-829d-4bd8-8ef3-bd2c82765ffb",
       "name": "Hex E2 S0",
       "position": {
         "x": 2164.49,
@@ -1158,7 +1158,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "9f264902-4490-42d0-bb53-2c2bfbcdc1c2",
+      "id": "5f783677-e0d0-4701-b7ba-4447a7abd7fa",
       "name": "Hex E2 S1",
       "position": {
         "x": 2164.49,
@@ -1224,7 +1224,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "7c66c833-701b-45ac-a269-378929dd1ffc",
+      "id": "7ce8fc44-3f1e-4204-8e18-fdc5edff6914",
       "name": "Hex W3 N1",
       "position": {
         "x": 1531.04,
@@ -1290,7 +1290,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "015d8696-45da-4a09-877e-b99743ab328e",
+      "id": "0f901cc5-14a9-48c5-aee5-4c3c275f62a3",
       "name": "Hex W3 S0",
       "position": {
         "x": 1531.04,
@@ -1356,7 +1356,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "d327f968-8d34-4720-8264-75c3d7b3e263",
+      "id": "b1691cf6-1f4a-431a-b552-dc53908a3739",
       "name": "Hex W3 S1",
       "position": {
         "x": 1531.04,
@@ -1422,7 +1422,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "8a10ba34-355f-49c6-b20a-60e3be8393d0",
+      "id": "408b418c-5dd0-4376-94e4-1cf1199e0c7e",
       "name": "Hex W3 S2",
       "position": {
         "x": 1531.04,
@@ -1488,7 +1488,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "8279d2f2-9c1b-47b7-a12a-58ca4a30d7bf",
+      "id": "af270d66-3f07-4a30-81e2-d27ae5b5dcc6",
       "name": "Hex W2 N2",
       "position": {
         "x": 1657.73,
@@ -1554,7 +1554,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "701d1d78-5da3-48f3-9116-9b16092a2343",
+      "id": "1a7f7eeb-52af-4c16-a533-48cf32b2fce0",
       "name": "Hex W2 S2",
       "position": {
         "x": 1657.73,
@@ -1620,7 +1620,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "25302952-1869-4901-9291-46776c775eb1",
+      "id": "051b5ac9-4aae-4a99-bf20-0d5d8e91b7f6",
       "name": "Hex W1 N2",
       "position": {
         "x": 1784.4199999999998,
@@ -1686,7 +1686,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "8b7be77a-7881-4c74-ae74-014e94d0c011",
+      "id": "2ead3229-b296-4e6a-a5f5-f239801825dd",
       "name": "Hex W1 S3",
       "position": {
         "x": 1784.4199999999998,
@@ -1752,7 +1752,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "118a1406-abef-4dc3-8523-f02cd5cb426b",
+      "id": "c1d1677c-3fbd-430e-89ca-3d322d1b96cb",
       "name": "Hex E0 N3",
       "position": {
         "x": 1911.11,
@@ -1818,7 +1818,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "b1e05f5c-9f43-4197-821e-0166d4cb7023",
+      "id": "f19c0312-7b50-4ef4-b991-cf2e802ca147",
       "name": "Hex E0 S3",
       "position": {
         "x": 1911.11,
@@ -1884,7 +1884,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "1af0ed8b-d30d-437d-87d5-cc3c8ad2b5fe",
+      "id": "abbe57f5-ae8b-4236-9ae7-e35ad3f21835",
       "name": "Hex E1 N2",
       "position": {
         "x": 2037.7999999999997,
@@ -1950,7 +1950,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "abfb8e46-a4cc-499e-86be-e420533a5536",
+      "id": "dc87ad22-662f-41c5-ba06-712cb7de82f9",
       "name": "Hex E1 S3",
       "position": {
         "x": 2037.7999999999997,
@@ -2016,7 +2016,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "7d959ca4-f17b-47b5-9df3-b2907cb544c6",
+      "id": "f04dd4df-38dc-4b1b-aa0f-383723aae4ef",
       "name": "Hex E2 S2",
       "position": {
         "x": 2164.49,
@@ -2082,7 +2082,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "5f67339f-eb71-4350-8f7c-6f3fe4648ec9",
+      "id": "3fa4bce9-c844-4162-91db-7b06adc39147",
       "name": "Hex E3 S0",
       "position": {
         "x": 2291.18,
@@ -2148,7 +2148,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "81841ebc-6205-46ee-a944-1aa676f2ad87",
+      "id": "93efce3d-a8f1-4460-bd03-80c58ad9c132",
       "name": "Hex E3 S1",
       "position": {
         "x": 2291.18,
@@ -2214,7 +2214,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "d12e2b0e-8a12-4234-9eb8-5eebc4996fc3",
+      "id": "3b3de973-88bb-4a31-ad6f-ca073e34c405",
       "name": "Hex E3 S2",
       "position": {
         "x": 2291.18,
@@ -2280,7 +2280,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "13281953-2eb9-4f3d-ae2f-645ce56290cd",
+      "id": "9a2d0152-594a-4c3d-9a3c-ee6e0261cd5b",
       "name": "Hex W4 N2",
       "position": {
         "x": 1404.35,
@@ -2346,7 +2346,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "90049274-7246-4e9f-a404-7e92203715f4",
+      "id": "1d498d1c-f597-4a84-87f6-dddb519b8fbf",
       "name": "Hex W4 N1",
       "position": {
         "x": 1404.35,
@@ -2412,7 +2412,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "bd2ee439-6ae6-4cad-a8de-cdf9884e1df7",
+      "id": "ffec3590-065c-4216-84d8-acf3c4d0033b",
       "name": "Hex W4 S0",
       "position": {
         "x": 1404.35,
@@ -2478,7 +2478,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "894b921d-cb59-42df-98e3-52819a176fe0",
+      "id": "ea6e7fb7-6372-44ca-8eff-305c65a43c99",
       "name": "Hex W4 S1",
       "position": {
         "x": 1404.35,
@@ -2544,7 +2544,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "14a47fef-d431-4311-be42-ad1c0d081f16",
+      "id": "ac3caef1-dee4-4311-9079-c188681a5a6e",
       "name": "Hex W4 S2",
       "position": {
         "x": 1404.35,
@@ -2610,7 +2610,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "09ac53b3-8e39-40c7-949b-03b596e4d6f6",
+      "id": "a0683164-6c1c-4b3f-a8c2-409fd8df695f",
       "name": "Hex W3 N2",
       "position": {
         "x": 1531.04,
@@ -2676,7 +2676,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "66712305-818e-404c-950b-f3bd51d12aa8",
+      "id": "aaceed91-c10c-46ff-9c2f-b40671ebde18",
       "name": "Hex W3 S3",
       "position": {
         "x": 1531.04,
@@ -2742,7 +2742,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "b321d413-852b-4ef4-9424-95e9614b59cb",
+      "id": "52bdc71b-29be-48bd-97c3-3c2c6ac662bc",
       "name": "Hex W2 N3",
       "position": {
         "x": 1657.73,
@@ -2808,7 +2808,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "ffc89c3b-46cc-4525-886c-76019438088d",
+      "id": "73c5c3cc-9b5b-4ffc-b2b1-0f7d6bdc098f",
       "name": "Hex W2 S3",
       "position": {
         "x": 1657.73,
@@ -2874,7 +2874,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "534bb879-e712-4680-9317-0ae5e8bfc91d",
+      "id": "ccb06c09-8593-44fb-a1b8-57e4b0516a0c",
       "name": "Hex W1 N3",
       "position": {
         "x": 1784.4199999999998,
@@ -2940,7 +2940,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "02f465a2-da3b-4172-8f0c-770c70aa0a47",
+      "id": "52dea9eb-5f05-4d51-a691-4934b0715291",
       "name": "Hex W1 S4",
       "position": {
         "x": 1784.4199999999998,
@@ -3006,7 +3006,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "f263a35c-3946-49d6-b599-1773d3668ae9",
+      "id": "809e8d97-da32-4256-bde8-0f6b6f66f406",
       "name": "Hex E0 N4",
       "position": {
         "x": 1911.11,
@@ -3072,7 +3072,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "cd91ea34-7819-49d9-b8bb-44c55ba9712e",
+      "id": "a36bc12a-a67e-4159-bafc-2c07b1f59d3f",
       "name": "Hex E0 S4",
       "position": {
         "x": 1911.11,
@@ -3138,7 +3138,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "484c168b-05ec-4479-8f7d-66f60daf8af5",
+      "id": "457d81ef-7ab6-4bdf-9f43-b14ca312e984",
       "name": "Hex E1 N3",
       "position": {
         "x": 2037.7999999999997,
@@ -3204,7 +3204,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "06d34412-271d-4199-bc4d-24f30e2ceb48",
+      "id": "e2ea57e3-6f60-46c1-bc22-578263315040",
       "name": "Hex E1 S4",
       "position": {
         "x": 2037.7999999999997,
@@ -3270,7 +3270,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "2d528d66-d7c2-41d6-ab13-d651fe36f2ae",
+      "id": "02ae4d07-7d4f-436f-bce1-4ae301c8a68d",
       "name": "Hex E2 N3",
       "position": {
         "x": 2164.49,
@@ -3336,7 +3336,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "414ce7cb-270b-495b-a901-93741d398c1b",
+      "id": "c59396fb-3992-4d05-a3bb-f3dd7579d6b2",
       "name": "Hex E2 S3",
       "position": {
         "x": 2164.49,
@@ -3402,7 +3402,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "2d1f0ea5-7ba5-4235-9e19-77e41592453a",
+      "id": "73819dbb-765f-44ac-aa0c-9c8caec65ffa",
       "name": "Hex E3 S3",
       "position": {
         "x": 2291.18,
@@ -3468,7 +3468,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "c0abc86e-7ca0-4d56-8be1-82cd62a68b70",
+      "id": "7cece7a5-7fdd-4b37-b481-e751b90ef9d9",
       "name": "Hex E4 S0",
       "position": {
         "x": 2417.87,
@@ -3534,7 +3534,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "bb23b571-c018-441f-85b7-bb528a08a750",
+      "id": "503975ed-e7ed-4efe-a527-662e92be1055",
       "name": "Hex E4 S1",
       "position": {
         "x": 2417.87,
@@ -3600,7 +3600,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "5e46d74f-7e7f-4e3a-8b7b-8d9718a152c3",
+      "id": "1bf213d1-65b5-4ce0-942f-407e5acca390",
       "name": "Hex E4 S2",
       "position": {
         "x": 2417.87,
@@ -3666,7 +3666,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "b205e616-1a5a-43cb-a6fc-4e974eed04c6",
+      "id": "04c6ffe1-d596-4791-9d96-3936b9a757af",
       "name": "Hex W5 N2",
       "position": {
         "x": 1277.6599999999999,
@@ -3732,7 +3732,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "974f3a17-93dd-480d-9adc-6aef52e61598",
+      "id": "53108276-91bc-4fb0-9329-f814925750fc",
       "name": "Hex W5 N1",
       "position": {
         "x": 1277.6599999999999,
@@ -3798,7 +3798,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "dde3d6e8-6aca-46f9-9393-4bd3080cda1f",
+      "id": "31eb34c6-3263-433c-980a-216ffdc84f77",
       "name": "Hex W5 S0",
       "position": {
         "x": 1277.6599999999999,
@@ -3864,7 +3864,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "812f5bd6-42e3-4e09-bf6f-c4e17ed2b22d",
+      "id": "a1f16ebb-2ccc-4de5-aae9-b0799976189e",
       "name": "Hex W5 S1",
       "position": {
         "x": 1277.6599999999999,
@@ -3930,7 +3930,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "1411c240-cc1d-43a0-abdf-6fa8fc8bf333",
+      "id": "5825a09c-6225-4fdf-9ec1-13dc85f43341",
       "name": "Hex W5 S2",
       "position": {
         "x": 1277.6599999999999,
@@ -3996,7 +3996,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "d5db66d2-c3e2-4bcf-a42e-b19b9fe1f1b1",
+      "id": "5c618a18-aecb-41b4-b8ba-82d8f6a45624",
       "name": "Hex W5 S3",
       "position": {
         "x": 1277.6599999999999,
@@ -4062,7 +4062,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "6424c52a-e341-411a-bd14-985ed56dbd49",
+      "id": "981d9478-bd1b-4d09-8583-b0c042b6510b",
       "name": "Hex W4 N3",
       "position": {
         "x": 1404.35,
@@ -4128,7 +4128,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "6b0a67c3-67ce-4b07-baf4-78db890f74b7",
+      "id": "ecf1cd0e-781d-4702-8be3-cde6b83b2258",
       "name": "Hex W4 S3",
       "position": {
         "x": 1404.35,
@@ -4194,7 +4194,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "586cf7ed-3676-4f86-8153-0441c0407056",
+      "id": "4fb15944-4ccf-4412-8dec-9de311ef6471",
       "name": "Hex W3 N3",
       "position": {
         "x": 1531.04,
@@ -4260,7 +4260,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "f6ce9d97-29a3-4814-aa29-beb7694fed66",
+      "id": "94de2210-bb99-488c-b541-6aec3ee63774",
       "name": "Hex W3 S4",
       "position": {
         "x": 1531.04,
@@ -4326,7 +4326,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "2d516aec-ea5e-4c8b-895e-b26fa87e7b0f",
+      "id": "53bd4f78-563a-42b4-bc58-63b15aab4584",
       "name": "Hex W2 N4",
       "position": {
         "x": 1657.73,
@@ -4392,7 +4392,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "640cbde5-cfdc-486a-9dfc-0f76b681210f",
+      "id": "ffbb782c-ca7e-412d-a460-673e09077d3d",
       "name": "Hex W2 S4",
       "position": {
         "x": 1657.73,
@@ -4458,7 +4458,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "f428a97f-979a-48eb-8ba1-2c28b621b7d1",
+      "id": "9b296c9d-c182-4274-ab4b-28e4c6e876d6",
       "name": "Hex W1 N4",
       "position": {
         "x": 1784.4199999999998,
@@ -4524,7 +4524,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "645b75f4-3c03-4d20-a529-ff067d8f184f",
+      "id": "877bced1-c386-40ba-982b-0ee823c32bd7",
       "name": "Hex W1 S5",
       "position": {
         "x": 1784.4199999999998,
@@ -4590,7 +4590,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "5bdc4731-1a72-4f82-94da-a0af34081c32",
+      "id": "1cfd7cce-8100-4298-b85a-18a815b86e2d",
       "name": "Hex E0 N5",
       "position": {
         "x": 1911.11,
@@ -4656,7 +4656,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "76ed44f7-58f7-4e42-98ff-11fdf8d67b39",
+      "id": "8685867a-66cc-47e1-90fb-09ae28824368",
       "name": "Hex E0 S5",
       "position": {
         "x": 1911.11,
@@ -4722,7 +4722,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "750d2d05-bc35-4eba-b5af-0db2baf009c3",
+      "id": "fa4ddf21-f188-4996-ad59-8b619b88467c",
       "name": "Hex E1 N4",
       "position": {
         "x": 2037.7999999999997,
@@ -4788,7 +4788,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "70a403c0-b716-468f-a8dc-5f0cac882e8c",
+      "id": "4cc8f20e-52f3-4e18-9ec6-ba75e99a46ef",
       "name": "Hex E1 S5",
       "position": {
         "x": 2037.7999999999997,
@@ -4854,7 +4854,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "45a068da-bd5a-495f-8c8e-d5c95a0e45e4",
+      "id": "86d703fa-a25b-4baa-be76-c19c93dba908",
       "name": "Hex E2 N4",
       "position": {
         "x": 2164.49,
@@ -4920,7 +4920,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "d076c3f1-adbb-4ddf-9bc6-8536da1a78c8",
+      "id": "228289df-f7a4-4e65-bfb1-418d09e0cb19",
       "name": "Hex E2 S4",
       "position": {
         "x": 2164.49,
@@ -4986,7 +4986,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "cb226ac1-7320-44c6-89ae-981d4d60c441",
+      "id": "f103ca4c-117b-4b38-9b3b-cd49c03d9d66",
       "name": "Hex E3 N3",
       "position": {
         "x": 2291.18,
@@ -5052,7 +5052,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "78a0197d-65de-4b1f-9e89-4a59a5d48016",
+      "id": "9602e9c7-5d2b-4f7b-99b2-b6bc6824f394",
       "name": "Hex E3 S4",
       "position": {
         "x": 2291.18,
@@ -5118,7 +5118,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "a05805c4-718b-4461-a2fc-48364b2d4761",
+      "id": "0c2d8ea8-91b9-4cf7-a8d3-6bf107f9cd83",
       "name": "Hex E4 S3",
       "position": {
         "x": 2417.87,
@@ -5184,7 +5184,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "571fe201-00f3-439f-9312-3d4dcba2338f",
+      "id": "19e072e9-843e-4c13-9e00-857279b93e1f",
       "name": "Hex E5 S0",
       "position": {
         "x": 2544.56,
@@ -5250,7 +5250,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "2ff1f9a0-41ed-4029-924a-e0edc8974607",
+      "id": "aeab60ba-f10a-4d7d-9323-0d3b99eb1bc5",
       "name": "Hex E5 S1",
       "position": {
         "x": 2544.56,
@@ -5316,7 +5316,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "6c8f2625-a965-4d44-b649-44a5b97491ac",
+      "id": "f1ad9667-6445-4055-9ecc-8a31c1eb2815",
       "name": "Hex E5 S2",
       "position": {
         "x": 2544.56,
@@ -5382,7 +5382,7 @@
     },
     {
       "type": "IMAGE",
-      "id": "17ef6ca5-98a8-4cba-8afc-b3043945a198",
+      "id": "ce6984dd-3d0d-4707-a5d7-f6bc6f714daf",
       "name": "Hex E5 S3",
       "position": {
         "x": 2544.56,
@@ -5397,6 +5397,1788 @@
       "locked": false,
       "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
       "zIndex": 1772417700090,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "59ad2eae-b79e-475b-8fd5-8cfd540c6fa6",
+      "name": "Hex W6 N3",
+      "position": {
+        "x": 1150.9699999999998,
+        "y": 2476.3900000000003
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700091,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "a8d1e989-5a75-44f1-a8db-75330097d309",
+      "name": "Hex W6 N1",
+      "position": {
+        "x": 1150.9699999999998,
+        "y": 2777.41
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700093,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "176d8bb6-7803-4333-b527-27e59c9fd829",
+      "name": "Hex W6 S0",
+      "position": {
+        "x": 1150.9699999999998,
+        "y": 2927.92
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700094,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "27b171bf-527b-4373-a82e-10fe5442c858",
+      "name": "Hex W6 S1",
+      "position": {
+        "x": 1150.9699999999998,
+        "y": 3078.4300000000003
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700095,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "bcb51f82-abeb-4afc-933f-49a9ff28902e",
+      "name": "Hex W6 S2",
+      "position": {
+        "x": 1150.9699999999998,
+        "y": 3228.94
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700096,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "54c1ab71-f0b2-4cfe-9b22-f5b7a9ad8e51",
+      "name": "Hex W6 S3",
+      "position": {
+        "x": 1150.9699999999998,
+        "y": 3379.45
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700097,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "6dd49b5b-3016-43e3-9d94-8fb79a5d7e5d",
+      "name": "Hex W5 S4",
+      "position": {
+        "x": 1277.6599999999999,
+        "y": 3451.04
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700099,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "6fc9badb-406c-4ca3-b05b-5bb2abb81902",
+      "name": "Hex W4 S4",
+      "position": {
+        "x": 1404.35,
+        "y": 3529.96
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700101,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "6221455d-e33f-4f8b-8fff-2356d46782cb",
+      "name": "Hex W3 N4",
+      "position": {
+        "x": 1531.04,
+        "y": 2246.96
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700102,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "754efe2e-55e4-49ea-b12d-4c9153c26e72",
+      "name": "Hex W2 N5",
+      "position": {
+        "x": 1657.73,
+        "y": 2175.37
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700104,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "e1021cdf-73ce-4b9e-b17f-51a1562f1773",
+      "name": "Hex W2 S5",
+      "position": {
+        "x": 1657.73,
+        "y": 3680.4700000000003
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700105,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_W2_S5.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "7708c2a2-67b4-41f6-9259-ccc671588295",
+      "name": "Hex W1 N5",
+      "position": {
+        "x": 1784.4199999999998,
+        "y": 2096.45
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700106,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "c3139d5f-e9b6-4c49-951e-bd419e263ebf",
+      "name": "Hex E0 N6",
+      "position": {
+        "x": 1911.11,
+        "y": 2024.8600000000001
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700108,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "04545527-0713-4667-a7ae-1aa2cd360cb2",
+      "name": "Hex E0 S6",
+      "position": {
+        "x": 1911.11,
+        "y": 3830.98
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700109,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E0_S6.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "d8b44af7-45d1-4db2-be04-199aefbb9190",
+      "name": "Hex E1 N5",
+      "position": {
+        "x": 2037.7999999999997,
+        "y": 2096.45
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700110,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "b27f279d-925e-4f2a-a2dc-a47e7353e5f8",
+      "name": "Hex E1 S6",
+      "position": {
+        "x": 2037.7999999999997,
+        "y": 3752.06
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700111,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "37a80c8c-de62-45f4-b21c-be1d272cb0c9",
+      "name": "Hex E2 N5",
+      "position": {
+        "x": 2164.49,
+        "y": 2175.37
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700112,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "1c8f0178-da77-4497-91e8-93375d2730f8",
+      "name": "Hex E2 S5",
+      "position": {
+        "x": 2164.49,
+        "y": 3680.4700000000003
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700113,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "984b8105-aa13-4f02-811b-98b657335613",
+      "name": "Hex E3 N4",
+      "position": {
+        "x": 2291.18,
+        "y": 2246.96
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700114,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "c791b921-5afd-4ec3-850f-2a74bba5d07f",
+      "name": "Hex E3 S5",
+      "position": {
+        "x": 2291.18,
+        "y": 3601.55
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700115,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "e7b5910e-bf24-4821-8c8c-ad876867984b",
+      "name": "Hex E4 S4",
+      "position": {
+        "x": 2417.87,
+        "y": 3529.96
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700117,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "1d5d3065-7349-4e0e-8a40-581f09095995",
+      "name": "Hex E5 S4",
+      "position": {
+        "x": 2544.56,
+        "y": 3451.04
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700119,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "48594902-3e6f-48a6-9ca9-a277103343bc",
+      "name": "Hex E6 N1",
+      "position": {
+        "x": 2671.25,
+        "y": 2777.41
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700122,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "127ed1c7-569e-4e94-b14f-d57a2b974c2b",
+      "name": "Hex E6 S0",
+      "position": {
+        "x": 2671.25,
+        "y": 2927.92
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700123,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "3ac262a4-86ca-4675-825d-b0413803e9dc",
+      "name": "Hex E6 S1",
+      "position": {
+        "x": 2671.25,
+        "y": 3078.4300000000003
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700124,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "bd226b15-be02-48ad-ab53-062abebfbfad",
+      "name": "Hex E6 S2",
+      "position": {
+        "x": 2671.25,
+        "y": 3228.94
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700125,
+      "lastModified": "2026-03-02T04:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_blank_v2.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "930ba40f-e3a7-454a-9eac-d70eb47060c6",
+      "name": "Hex E6 S3",
+      "position": {
+        "x": 2671.25,
+        "y": 3379.45
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700126,
       "lastModified": "2026-03-02T04:00:00.000Z",
       "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
       "metadata": {},
