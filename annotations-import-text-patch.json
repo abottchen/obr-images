@@ -1,0 +1,962 @@
+{
+  "version": 1,
+  "exportedAt": "2026-03-02T06:00:00.000Z",
+  "exportedBy": "GM",
+  "scene": {
+    "metadata": {
+      "com.battle-system.smoke/USER-f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94": {
+        "role": "GM",
+        "name": "GM",
+        "color": "#1a6aff"
+      },
+      "com.battle-system.smoke/sceneId": "5db216ab-3810-49b8-9180-909a0f10e23a"
+    },
+    "grid": {
+      "dpi": 150,
+      "scale": {
+        "raw": "10mi",
+        "parsed": {
+          "multiplier": 10,
+          "unit": "mi",
+          "digits": 0
+        }
+      },
+      "type": "HEX_HORIZONTAL"
+    }
+  },
+  "summary": {
+    "totalItems": 14,
+    "byType": {
+      "IMAGE": 14
+    },
+    "byLayer": {
+      "PROP": 14
+    }
+  },
+  "items": [
+    {
+      "type": "IMAGE",
+      "id": "f10f0fef-6d86-4544-b784-eee2d8946a81",
+      "name": "Hex W12 S12",
+      "position": {
+        "x": 352.92999999999984,
+        "y": 4734.85
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700000,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_W12_S12.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "8a87bd50-ba36-4dd7-b2e2-6af445839261",
+      "name": "Hex W6 S19",
+      "position": {
+        "x": 1130.59,
+        "y": 5792.27
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700001,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_W6_S19.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "4631d0b5-9f67-41a9-8bd6-0bddb9425262",
+      "name": "Hex W4 S20",
+      "position": {
+        "x": 1389.81,
+        "y": 5943.33
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700002,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_W4_S20.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "e7a6bf59-a38e-4e7e-9efc-35ccd5099e3c",
+      "name": "Hex W3 S21",
+      "position": {
+        "x": 1519.42,
+        "y": 6018.860000000001
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700003,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_W3_S21.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "1ecef5c8-9547-4901-8fdd-177d4a48ded0",
+      "name": "Hex E5 S22",
+      "position": {
+        "x": 2556.3,
+        "y": 6169.920000000001
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700004,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E5_S22.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "ff7ceebb-0da2-4bc3-b03a-d34d7e3c0189",
+      "name": "Hex E6 S20",
+      "position": {
+        "x": 2685.91,
+        "y": 5943.33
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700005,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E6_S20.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "6d154e49-fb97-4f9a-9a69-edb10970ee48",
+      "name": "Hex E6 S22",
+      "position": {
+        "x": 2685.91,
+        "y": 6245.450000000001
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700006,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E6_S22.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "2ea2dda8-55d4-4175-9e3b-ffb71e1f0553",
+      "name": "Hex E7 S22",
+      "position": {
+        "x": 2815.52,
+        "y": 6169.920000000001
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700007,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E7_S22.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "bb060888-6c18-4b51-b38e-9fdb2e6641eb",
+      "name": "Hex E8 S20",
+      "position": {
+        "x": 2945.13,
+        "y": 5943.33
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700008,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E8_S20.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "6dd189dd-80a7-4cbe-8d20-bba6ff32992a",
+      "name": "Hex E11 S20",
+      "position": {
+        "x": 3333.96,
+        "y": 5867.8
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700009,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E11_S20.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "2f674f77-369c-4fb2-86be-b16e05c79086",
+      "name": "Hex E13 S20",
+      "position": {
+        "x": 3593.1800000000003,
+        "y": 5867.8
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700010,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E13_S20.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "7652fc5e-ed13-4393-b805-1509551951b2",
+      "name": "Hex E25 S17",
+      "position": {
+        "x": 5148.5,
+        "y": 5414.62
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700011,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E25_S17.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "ff8b1866-89bc-4668-816f-5060211e3a71",
+      "name": "Hex E25 S18",
+      "position": {
+        "x": 5148.5,
+        "y": 5565.68
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700012,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E25_S18.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "cc40c12f-9eb4-42a2-8fea-c67a9f22915d",
+      "name": "Hex E26 S17",
+      "position": {
+        "x": 5278.110000000001,
+        "y": 5490.15
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700013,
+      "lastModified": "2026-03-02T06:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E26_S17.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    }
+  ]
+}
