@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "exportedAt": "2026-03-02T07:00:00.000Z",
+  "exportedBy": "GM",
+  "scene": {
+    "metadata": {
+      "com.battle-system.smoke/USER-f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94": {
+        "role": "GM",
+        "name": "GM",
+        "color": "#1a6aff"
+      },
+      "com.battle-system.smoke/sceneId": "5db216ab-3810-49b8-9180-909a0f10e23a"
+    },
+    "grid": {
+      "dpi": 150,
+      "scale": {
+        "raw": "10mi",
+        "parsed": {
+          "multiplier": 10,
+          "unit": "mi",
+          "digits": 0
+        }
+      },
+      "type": "HEX_HORIZONTAL"
+    }
+  },
+  "summary": {
+    "totalItems": 2,
+    "byType": {
+      "IMAGE": 2
+    },
+    "byLayer": {
+      "PROP": 2
+    }
+  },
+  "items": [
+    {
+      "type": "IMAGE",
+      "id": "76b5c168-ad9a-43c6-a4f8-a7ca211e6250",
+      "name": "Hex E12 S25",
+      "position": {
+        "x": 3463.57,
+        "y": 6698.63
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700000,
+      "lastModified": "2026-03-02T07:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E12_S25.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    },
+    {
+      "type": "IMAGE",
+      "id": "46b180cb-84fa-4f93-b179-2e07e22c0ec3",
+      "name": "Hex E14 S26",
+      "position": {
+        "x": 3722.79,
+        "y": 6849.6900000000005
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "visible": true,
+      "locked": false,
+      "createdUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "zIndex": 1772417700001,
+      "lastModified": "2026-03-02T07:00:00.000Z",
+      "lastModifiedUserId": "f50dd18d-41a0-4eb0-9f7c-aa07e43a1f94",
+      "metadata": {},
+      "image": {
+        "width": 172,
+        "height": 150,
+        "mime": "image/png",
+        "url": "https://abottchen.github.io/obr-images/hex_E14_S26.png"
+      },
+      "grid": {
+        "dpi": 150,
+        "offset": {
+          "x": 86.0,
+          "y": 75.0
+        }
+      },
+      "text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "plainText": "",
+        "style": {
+          "padding": 8,
+          "fontFamily": "Roboto",
+          "fontSize": 24,
+          "fontWeight": 400,
+          "textAlign": "CENTER",
+          "textAlignVertical": "BOTTOM",
+          "fillColor": "#ffffff",
+          "fillOpacity": 1,
+          "strokeColor": "#ffffff",
+          "strokeOpacity": 1,
+          "strokeWidth": 0,
+          "lineHeight": 1.5
+        },
+        "type": "PLAIN",
+        "width": "AUTO",
+        "height": "AUTO"
+      },
+      "textItemType": "LABEL",
+      "layer": "PROP"
+    }
+  ]
+}
